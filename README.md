@@ -1,24 +1,35 @@
 # MNIST Digit Recognizer
 
-## Overview
+A deep learning application that recognizes handwritten digits (0–9) using a TensorFlow/Keras model trained on the MNIST dataset.
 
-This project uses Deep Learning to recognize handwritten digits from images.
+## Live Demo
 
-## Features
+🔗 https://mnist-digit-recognizer-4pm6.onrender.com/
 
-* TensorFlow/Keras Neural Network
-* MNIST Dataset
-* Image Upload Support
-* Streamlit Web Interface
-* Confidence Score Display
+## Accuracy
+
+✅ 98.66%
 
 ## Tech Stack
 
-* Python
-* TensorFlow
-* NumPy
-* Pillow
-* Streamlit
+- Python
+- TensorFlow / Keras
+- NumPy
+- Pillow
+- Streamlit
+- Render
+
+## Features
+
+- Upload handwritten digit images
+- Predict digit from 0–9
+- Confidence score display
+- Deep Learning model trained on MNIST dataset
+- Deployed web application
+
+## Overview
+
+This project uses Deep Learning to recognize handwritten digits from images.
 
 ## Dataset
 
